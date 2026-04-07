@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function HeroSection() {
   return (
     <>
@@ -98,9 +100,9 @@ export default function HeroSection() {
           </p>
 
           {/* CTA Button */}
-          <a href="/contact/" className="hero-cta">
+          <Link href="/contact/" className="hero-cta">
             CONTACT THE FIRM
-          </a>
+          </Link>
         </div>
       </section>
     </>
