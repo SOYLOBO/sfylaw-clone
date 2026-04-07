@@ -130,7 +130,7 @@ const LawyersLawyerSection = () => {
 
           <div className="lawyers-right">
             <div className="lawyer-card">
-              <img src="/sfylaw-clone/images/young_sanford_f.jpg" alt="Sanford F. Young" className="lawyer-photo" />
+              <img src="/images/young_sanford_f.jpg" alt="Sanford F. Young" className="lawyer-photo" />
               <Link href="/meet-sanford-f-young/" className="lawyer-card-link">
                 Meet Sanford F. Young
               </Link>
