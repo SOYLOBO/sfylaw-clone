@@ -6,7 +6,7 @@ export default function HeroSection() {
           position: relative;
           width: 100%;
           text-align: center;
-          background-image: url('/images/NewBanner2.jpg'),
+          background-image: url('/sfylaw-clone/images/NewBanner2.jpg'),
             linear-gradient(135deg, #03204C 0%, #1a1a3e 100%);
           background-size: cover;
           background-position: center;

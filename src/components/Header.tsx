@@ -35,7 +35,7 @@ export function Header() {
         >
           {/* Logo */}
           <Link href="/" aria-label="Home">
-            <img src="/images/logo-white.png" alt="The Law Offices of Sanford F. Young P.C." className="block w-[300px]" />
+            <img src="/sfylaw-clone/images/logo-white.png" alt="The Law Offices of Sanford F. Young P.C." className="block w-[300px]" />
           </Link>
 
           {/* Phone Numbers */}

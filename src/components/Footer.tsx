@@ -177,7 +177,7 @@ export default function Footer() {
         <div className="footer-inner">
           {/* Left: Logo + Social + Review */}
           <div className="footer-col-logo">
-            <img src="/images/logo-white.png" alt="The Law Offices of Sanford F. Young P.C." className="block w-[300px]" />
+            <img src="/sfylaw-clone/images/logo-white.png" alt="The Law Offices of Sanford F. Young P.C." className="block w-[300px]" />
             <div className="footer-social-row">
               <a
                 href="https://www.facebook.com/"
@@ -221,7 +221,7 @@ export default function Footer() {
             <Link href="#" className="footer-outline-btn">
               New York Office Location
             </Link>
-            <img src="/images/TradeCenterMap.jpg" alt="New York Office Map" style={{ width: '200px', height: '150px', objectFit: 'cover' }} />
+            <img src="/sfylaw-clone/images/TradeCenterMap.jpg" alt="New York Office Map" style={{ width: '200px', height: '150px', objectFit: 'cover' }} />
           </div>
 
           {/* Right: New Jersey Office */}
@@ -242,7 +242,7 @@ export default function Footer() {
             <Link href="#" className="footer-outline-btn">
               Morristown Office Location
             </Link>
-            <img src="/images/JerseyMapNew.jpg" alt="New Jersey Office Map" style={{ width: '200px', height: '150px', objectFit: 'cover' }} />
+            <img src="/sfylaw-clone/images/JerseyMapNew.jpg" alt="New Jersey Office Map" style={{ width: '200px', height: '150px', objectFit: 'cover' }} />
           </div>
         </div>
 

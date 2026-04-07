@@ -8,7 +8,7 @@ const PublicationsSection = () => {
           width: 100%;
           background-image:
             linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
-            url('/images/AdobeStock_87237553-final.jpg');
+            url('/sfylaw-clone/images/AdobeStock_87237553-final.jpg');
           background-size: cover;
           background-position: center;
           padding: 100px 0;

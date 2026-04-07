@@ -98,7 +98,7 @@ const ComplexLegalSection = () => {
             flex: "0 0 40%",
             maxWidth: "40%",
             minHeight: "600px",
-            background: "url('/images/ChessContent1.jpg') center/cover no-repeat",
+            background: "url('/sfylaw-clone/images/ChessContent1.jpg') center/cover no-repeat",
             backgroundSize: "cover",
             backgroundAttachment: "fixed",
             boxSizing: "border-box",
